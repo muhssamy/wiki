@@ -1,22 +1,24 @@
 # Welcome to Data Intelligence's Power BI & Microsoft Fabric Knowledge Base
 
-> _Empowering data professionals with practical insights, best practices, and enterprise guidance._
+> _Helping organizations design and implement scalable analytics platforms using Microsoft Fabric and Power BI._
 
 ---
 
-## 👤 About Me
+## About Me
 
-I am a data professional with extensive experience in **Power BI, Microsoft Fabric, data analytics, and enterprise BI development**. Over the years, I have designed and deployed **complex semantic models, optimized performance for enterprise reports, and enabled governed self-service analytics**.  
+I am a Data & Analytics Architect with deep expertise in designing and implementing modern analytics platforms that empower organizations to turn data into trusted, decision-ready insights.
 
-My expertise spans multiple domains and technologies, including:
+My focus is on building scalable and governed analytics solutions using **Microsoft Fabric**, **Power BI**, and related platform technologies. I work with organizations to design end-to-end data architectures, implement enterprise semantic models, and enable governed self-service analytics that deliver measurable business value.
 
-- **Power BI & Microsoft Fabric**: Building scalable, governed reports, shared datasets, and semantic models.  
-- **Data Modeling & DAX**: Designing semantic models, creating measures, hierarchies, and calculation groups.  
-- **Enterprise BI Solutions**: Implementing analytics platforms and governance frameworks.  
-- **Application Development & Integration**: to extend reporting capabilities.  
-- **Performance & Optimization**: Query tuning, semantic model efficiency, and large-scale dataset handling.  
+### What I Do
 
-I am passionate about **turning complex data into actionable insights** and enabling organizations to make data-driven decisions confidently.
+- **Analytics Architecture & Platform Design** – Define scalable frameworks that support business goals and analytics growth.
+- **Semantic Modeling & BI Development** – Build robust data models and analytics solutions that deliver performance and trust.
+- **Platform Implementation & Enablement** – Lead implementation efforts, migrations, and analytics modernization.
+- **Governance & Best Practices** – Establish standards, processes, and governance frameworks for long-term success.
+- **Performance Optimization** – Tune models, queries, and platform components for efficient and scalable analytics workloads.
+
+My approach blends technical excellence with business understanding, helping teams bridge the gap between data complexity and actionable insights. I partner with stakeholders to solve real business problems through analytics, enabling organizations to make better, data-driven decisions.
 
 
 ---
