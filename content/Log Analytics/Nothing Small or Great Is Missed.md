@@ -5,7 +5,7 @@ tags:
   - Troubleshooting
   - Fabric
 created: 2026-01-13
-description: When Power BI Desktop started killing our system with mysterious queries, Log Analytics revealed what dashboards couldn't. A technical investigation into the November release bug that almost cost us thousands in wasted capacity upgrades.
+description:
 cover: Log Analytics/attachments/logs.png
 image: Log Analytics/attachments/logs.png
 author: Muhammad Samy
